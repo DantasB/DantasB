@@ -9,9 +9,9 @@
 Estudante de Engenharia de Computação de Informação da UFRJ
 
 ## Social
-[![Twitter URL](https://img.shields.io/twitter/url?color=9d0af5&label=Siga-me&logo=instagram&logoColor=9d0af5&style=flat-square&url=https://www.instagram.com/_brdantas/)](https://www.instagram.com/_brdantas/)
-[![Linkedin URL](https://img.shields.io/twitter/url?color=9d0af5&label=Conecte-se&logo=linkedin&logoColor=9d0af5&style=flat-square&url=https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)](https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)
-![](https://komarev.com/ghpvc/?username=DantasB&color=blueviolet&style=flat)
+[![Instagram URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=Siga-me&logo=instagram&logoColor=%231DA1F2&style=flat-square&url=https://www.instagram.com/_brdantas/)](https://www.instagram.com/_brdantas/)
+[![Linkedin URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=Conecte-se&logo=linkedin&logoColor=%231DA1F2&style=flat-square&url=https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)](https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)
+![](https://komarev.com/ghpvc/?username=DantasB&color=blue&style=flat)
 
 ![Personal Infos](https://github-readme-stats.vercel.app/api?username=DantasB&show_icons=true&count_private=true&show_icons=true&icon_color=9d0af5&title_color=9d0af5&text_color=33333B&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DantasB&hide=javascript,html,css&layout=compact&count_private=true&title_color=9d0af5&hide_border=true)](https://github.com/DantasB)
