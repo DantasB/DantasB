@@ -13,5 +13,5 @@ Estudante de Engenharia de Computação de Informação da UFRJ
 [![Linkedin URL](https://img.shields.io/twitter/url?color=%230072b1&label=Conecte-se&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)](https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)
 
 
-![Personal Infos](https://github-readme-stats.vercel.app/api?username=DantasB&show_icons=true&count_private=true&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DantasB&hide=javascript,html,css&layout=compact&theme=dark&count_private=true&hide_border=true)
+![Personal Infos](https://github-readme-stats.vercel.app/api?username=DantasB&show_icons=true&count_private=true&show_icons=true&icon_color=9d0af5&title_color=9d0af5&text_color=33333B&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DantasB&hide=javascript,html,css&layout=compact&count_private=true&title_color=9d0af5&hide_border=true)](https://github.com/DantasB)
