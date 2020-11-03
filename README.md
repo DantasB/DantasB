@@ -4,7 +4,7 @@
 
 ##### Nome: Bruno Dantas de Paiva
 ##### Idade: 24
-##### Naturalidade: RA/AC
+##### Naturalidade: RJ
 
 Estudante de Engenharia de Computação de Informação da UFRJ
 
