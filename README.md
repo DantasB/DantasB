@@ -14,14 +14,4 @@ Estudante de Engenharia de Computação de Informação da UFRJ
 
 
 ![Personal Infos](https://github-readme-stats.vercel.app/api?username=DantasB&show_icons=true&count_private=true&show_icons=true&theme=dark&hide_border=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DantasB&hide=javascript,html,css&layout=compact&theme=dark&count_private=true&hide_border=true)](https://github.com/DantasB)
-
-![](https://komarev.com/ghpvc/?username=DantasB&color=grey&style=flat)
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DantasB&hide=css&layout=compact&theme=dark" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=DantasB&show_icons=true&theme=dark"/></td>
-    </tr>   
-</table>
-</center>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DantasB&hide=javascript,html,css&layout=compact&theme=dark&count_private=true&hide_border=true)]
