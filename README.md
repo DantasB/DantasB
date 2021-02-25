@@ -1,17 +1,36 @@
-<img align="right" width="150" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/200px-C_Sharp_logo.svg.png">
+<h2> Hello, I'm Bruno Dantas!</h2>
+<img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230">
+<p><em>
+Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UFRJ</a>
+</br>Software Developer Intern at <a href="https://bigdatacorp.com.br/">BigData Corp.</a>
+</br>Researcher and Developer at <a href="https://ludes.cos.ufrj.br/pt/ludes/">LUDES</a>
+</br>Volunteer at <a href="https://github.com/DantasB/CSharp4Noobs">CSharp4Noobs</a>
+</em></p><br><br>
 
-## Sobre
 
-##### Nome: Bruno Dantas de Paiva
-##### Idade: 24
-##### Naturalidade: RJ
+<br>
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <br>
+  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
+</p>
+<p align="left">
+  <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=dantasb&theme=dracula&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantasb&theme=dracula&bg_color=0D1117&title_color=3DDC84&layout=compact&hide=css,html&hide_border=true" />
+  <br>
+</p>
 
-Estudante de Engenharia de Computação de Informação da UFRJ
-
-## Social
-[![Instagram URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=Siga-me&logo=instagram&logoColor=%231DA1F2&style=flat-square&url=https://www.instagram.com/_brdantas/)](https://www.instagram.com/_brdantas/)
-[![Linkedin URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=Conecte-se&logo=linkedin&logoColor=%231DA1F2&style=flat-square&url=https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)](https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)
-![](https://komarev.com/ghpvc/?username=DantasB&color=blue&style=flat)
-
-![Personal Infos](https://github-readme-stats.vercel.app/api?username=DantasB&show_icons=true&count_private=true&show_icons=true&icon_color=9d0af5&title_color=9d0af5&text_color=33333B&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DantasB&hide=html,css&layout=compact&count_private=true&title_color=9d0af5&hide_border=true)](https://github.com/DantasB)
+<p align="center">
+  <a href="https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/DantasB">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
