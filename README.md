@@ -7,7 +7,7 @@ Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UF
 </br>Volunteer at <a href="https://github.com/DantasB/CSharp4Noobs">CSharp4Noobs</a>
 </em></p>
 
-[![Linkedin: BDantas](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)](https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)
+[![Linkedin: BDantas](https://img.shields.io/badge/-BDantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)](https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)
 [![GitHub BDantas](https://img.shields.io/github/followers/dantasb?label=follow&style=social)](https://github.com/dantasb)
 
 
