@@ -2,9 +2,9 @@
 <img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230">
 <p><em>
 Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UFRJ</a>
-Software Developer Intern at <a href="https://bigdatacorp.com.br/">BigData Corp.</a>
-Researcher and Developer at <a href="https://ludes.cos.ufrj.br/pt/ludes/">LUDES</a>
-Volunteer at <a href="https://github.com/DantasB/CSharp4Noobs">CSharp4Noobs</a>
+</br>Software Developer Intern at <a href="https://bigdatacorp.com.br/">BigData Corp.</a>
+</br>Researcher and Developer at <a href="https://ludes.cos.ufrj.br/pt/ludes/">LUDES</a>
+</br>Volunteer at <a href="https://github.com/DantasB/CSharp4Noobs">CSharp4Noobs</a>
 </em></p>
 
 [![Linkedin: BDantas](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)](https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)
