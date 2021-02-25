@@ -1,13 +1,7 @@
-## Sobre
-
-##### Nome: Bruno Dantas de Paiva
-##### Idade: 24
-##### Naturalidade: RJ
-
 <h1 align="center">Sobre</h1>
-<h2 align="center">Bruno Dantas de Paiva</h1>
-<h2 align="center">24</h1>
-<h2 align="center">RJ</h1>
+<p align="center">Nome: Bruno Dantas de Paiva</p>
+<p align="center">Idade: 24</p>
+<p align="center">Naturalidade: RJ</p>
 <p align="center">Desenvolvedor C# e estudante de Engenharia de Computação e Informação na UFRJ. Apaixonado por Python, bots e jogos.</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
