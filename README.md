@@ -4,9 +4,7 @@
 #### Naturalidade: RJ
 
 #### Desenvolvedor C# e estudante de Engenharia de Computação e Informação na UFRJ. Apaixonado por Python, bots e jogos.
-#### Estagiário na [BigData Corp.](https://bigdatacorp.com.br/)
-#### Pesquisador no [LUDES](https://ludes.cos.ufrj.br/pt/ludes/)
-#### Voluntário no projeto [4Noobs](https://github.com/he4rt/4noobs) escrevendo no [CSharp4Noobs](https://github.com/DantasB/CSharp4Noobs).
+#### Estagiário na [BigData Corp](https://bigdatacorp.com.br/), pesquisador no [LUDES](https://ludes.cos.ufrj.br/pt/ludes/), voluntário no projeto [4Noobs](https://github.com/he4rt/4noobs) escrevendo no [CSharp4Noobs](https://github.com/DantasB/CSharp4Noobs).
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
