@@ -10,6 +10,8 @@ Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UF
 [![Linkedin: BDantas](https://img.shields.io/badge/-BDantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)](https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)
 [![GitHub BDantas](https://img.shields.io/github/followers/dantasb?label=follow&style=social)](https://github.com/dantasb)
 
+</br>
+</br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
