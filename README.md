@@ -8,19 +8,18 @@ Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UF
 </em></p>
 
 [![Linkedin: BDantas](https://img.shields.io/badge/-BDantas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)](https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)
-[![GitHub BDantas](https://img.shields.io/github/followers/dantasb?label=follow&style=social)](https://github.com/dantasb)
+[![GitHub BDantas](https://img.shields.io/github/followers/dantasb?label=follow&style=social)](https://github.com/dantasb)</br>
 
-</br>
-</br>
-
+<br>
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+ <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%23%20-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+ <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="Unity" src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 <br>
 <ul>
