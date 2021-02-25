@@ -1,10 +1,15 @@
-# Sobre
-#### Nome: Bruno Dantas de Paiva
-#### Idade: 24
-#### Naturalidade: RJ
+<h2> Hello, I'm Bruno Dantas!</h2>
+<img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230">
+<p><em>
+Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UFRJ</a>
+Software Developer Intern at <a href="https://bigdatacorp.com.br/">BigData Corp.</a>
+Researcher and Developer at <a href="https://ludes.cos.ufrj.br/pt/ludes/">LUDES</a>
+Volunteer at <a href="https://github.com/DantasB/CSharp4Noobs">CSharp4Noobs</a>
+</em></p>
 
-#### Desenvolvedor C# e estudante de Engenharia de Computação e Informação na UFRJ. Apaixonado por Python, bots e jogos.
-#### Estagiário na [BigData Corp](https://bigdatacorp.com.br/), pesquisador no [LUDES](https://ludes.cos.ufrj.br/pt/ludes/), voluntário no projeto [4Noobs](https://github.com/he4rt/4noobs) escrevendo no [CSharp4Noobs](https://github.com/DantasB/CSharp4Noobs).
+[![Linkedin: BDantas](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)](https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/)
+[![GitHub BDantas](https://img.shields.io/github/followers/dantasb?label=follow&style=social)](https://github.com/dantasb)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
