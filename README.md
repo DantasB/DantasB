@@ -1,8 +1,13 @@
-<h1 align="center">Sobre</h1>
-<p align="center">Nome: Bruno Dantas de Paiva</p>
-<p align="center">Idade: 24</p>
-<p align="center">Naturalidade: RJ</p>
-<p align="center">Desenvolvedor C# e estudante de Engenharia de Computação e Informação na UFRJ. Apaixonado por Python, bots e jogos.</p>
+# Sobre
+#### Nome: Bruno Dantas de Paiva
+#### Idade: 24
+#### Naturalidade: RJ
+
+#### Desenvolvedor C# e estudante de Engenharia de Computação e Informação na UFRJ. Apaixonado por Python, bots e jogos.
+#### Estagiário na [BigData Corp.](https://bigdatacorp.com.br/)
+#### Pesquisador no [LUDES](https://ludes.cos.ufrj.br/pt/ludes/)
+#### Voluntário no projeto [4Noobs](https://github.com/he4rt/4noobs) escrevendo no [CSharp4Noobs](https://github.com/DantasB/CSharp4Noobs).
+
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
