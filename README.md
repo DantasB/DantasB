@@ -7,7 +7,7 @@ Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UF
 </br>Coordinator at <a href="https://www.linkedin.com/company/minervaesportsufrj/about/">Minerva eSports</a>
 </br>Volunteer at <a href="https://github.com/DantasB/CSharp4Noobs">CSharp4Noobs</a>
 </br>Colaborator at <a href="https://github.com/gremio-eci">Gremio ECI</a>
-</em></p><br><br>
+</em></p><br>
 
 
 <br>
