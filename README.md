@@ -4,6 +4,7 @@
 Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UFRJ</a>
 </br>Software Developer Intern at <a href="https://bigdatacorp.com.br/">BigData Corp.</a>
 </br>Researcher and Developer at <a href="https://ludes.cos.ufrj.br/pt/ludes/">LUDES</a>
+</br>Coordinator at <a href="https://www.linkedin.com/company/minervaesportsufrj/about/">Minerva eSports</a>
 </br>Volunteer at <a href="https://github.com/DantasB/CSharp4Noobs">CSharp4Noobs</a>
 </br>Colaborator at <a href="https://github.com/gremio-eci">Gremio ECI</a>
 </em></p><br><br>
