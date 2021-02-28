@@ -5,7 +5,8 @@ Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UF
 </br>Software Developer Intern at <a href="https://bigdatacorp.com.br/">BigData Corp.</a>
 </br>Researcher and Developer at <a href="https://ludes.cos.ufrj.br/pt/ludes/">LUDES</a>
 </br>Volunteer at <a href="https://github.com/DantasB/CSharp4Noobs">CSharp4Noobs</a>
-</em></p><br><br><br>
+</br>Colaborator at <a href="https://github.com/gremio-eci">Gremio ECI</a>
+</em></p><br><br>
 
 
 <br>
