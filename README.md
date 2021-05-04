@@ -27,7 +27,7 @@ Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UF
 <p align="left">
   <br>
     <img src="https://github-readme-stats.vercel.app/api?username=dantasb&theme=dracula&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&show_icons=true&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantasb&theme=dracula&bg_color=0D1117&title_color=3DDC84&layout=compact&hide=css,html, vhdl&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantasb&theme=dracula&bg_color=0D1117&title_color=3DDC84&layout=compact&hide=css,html,vhdl&hide_border=true" />
   <br>
 </p>
 
