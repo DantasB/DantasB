@@ -30,7 +30,11 @@ Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UF
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantasb&theme=dracula&bg_color=0D1117&title_color=3DDC84&layout=compact&hide=css,html,vhdl&hide_border=true" />
   <br>
 </p>
-
+<p align="center">
+  <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=dantasB&row=2&column=3&theme=darkhub" />
+  <br>
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-dantas-de-paiva-a738551a2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
