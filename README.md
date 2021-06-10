@@ -32,7 +32,7 @@ Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UF
 </p>
 <p align="center">
   <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=dantasB&row=1&column=6&theme=darkhub" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dantasB&row=1&column=7&theme=darkhub" />
   <br>
 </p>
 <p align="center">
