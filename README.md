@@ -69,4 +69,7 @@ Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UF
   <a href="https://github.com/DantasB">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://github.com/DantasB">
+    <img src="https://dcbadge.vercel.app/api/shield/361993078938271759?compact=true"/>
+  </a>
 </p>
