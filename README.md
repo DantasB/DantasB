@@ -2,7 +2,8 @@
 <img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230">
 <p><em>
 Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UFRJ</a>. (Mar 2018 - Present)
-</br>Data Analyst III at <a href="https://www.plurall.net">Plurall</a>. (Jun 2022 - Present)
+</br>Data Engineer II at <a href="https://www.plurall.net">Plurall</a>. (Jan 2023 - Present)
+</br>Data Analyst III at <a href="https://www.plurall.net">Plurall</a>. (Jun 2022 - Dec 2022)
 </br>Data Analyst II at <a href="https://www.plurall.net">Plurall</a>. (Mar 2021 - May 2022)
 </br>Software Developer Intern at <a href="https://bigdatacorp.com.br/">BigData Corp. </a>(Feb 2020 - Mar 2021)
 </br>Researcher and Developer at <a href="https://ludes.cos.ufrj.br/pt/ludes/">LUDES</a>. (Oct 2020 - Mar 2021)
