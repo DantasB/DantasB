@@ -2,7 +2,7 @@
 <img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230">
 <p><em>
 Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UFRJ</a>. (Mar 2018 - Present)
-</br> Master's degree in Systems and Computer Engineering - Software Engineering at <a href="[https://ufrj.br/en/](https://www.cos.ufrj.br/index.php)">PESC</a>. (Mar 2023 - Present)
+</br> Master's degree in Systems and Computer Engineering - Software Engineering at <a href="https://www.cos.ufrj.br/index.php">PESC</a>. (Mar 2023 - Present)
 </br>Data Engineer II at <a href="https://www.plurall.net">Plurall</a>. (Jan 2023 - Present)
 </br>Data Analyst III at <a href="https://www.plurall.net">Plurall</a>. (Jun 2022 - Dec 2022)
 </br>Data Analyst II at <a href="https://www.plurall.net">Plurall</a>. (Mar 2021 - May 2022)
