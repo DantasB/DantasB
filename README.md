@@ -1,7 +1,7 @@
 <h2> Hello, I'm Bruno Dantas!</h2>
 <img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230">
 <p><em>
-Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UFRJ</a>. (Mar 2018 - Present)
+Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UFRJ</a>. (Mar 2018 - Mar 2023)
 </br> Master's degree in Software Engineering at <a href="https://www.cos.ufrj.br/index.php">PESC</a>. (Mar 2023 - Present)
 </br>Data Engineer V at <a href="https://www.plurall.net">Plurall</a>. (Jan 2023 - Present)
 </br>Data Engineer III at <a href="https://www.plurall.net">Plurall</a>. (Jun 2022 - Jan 2023)
