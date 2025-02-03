@@ -1,18 +1,16 @@
 <h2> Hello, I'm Bruno Dantas!</h2>
 <img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230">
 <p><em>
-Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UFRJ</a>. (Mar 2018 - Mar 2023)
-</br> Master's degree in Software Engineering at <a href="https://www.cos.ufrj.br/index.php">PESC</a>. (Mar 2023 - Present)
-</br>Data Engineer V at <a href="https://www.plurall.net">Plurall</a>. (Jan 2023 - Present)
-</br>Data Engineer III at <a href="https://www.plurall.net">Plurall</a>. (Jun 2022 - Jan 2023)
-</br>Data Engineer II at <a href="https://www.plurall.net">Plurall</a>. (Dec 2021 - Jun 2022)
-</br>Data Analyst II at <a href="https://www.plurall.net">Plurall</a>. (Mar 2021 - Dec 2021)
-</br>Software Developer Intern at <a href="https://bigdatacorp.com.br/">BigData Corp. </a>(Feb 2020 - Mar 2021)
-</br>Researcher and Developer at <a href="https://ludes.cos.ufrj.br/pt/ludes/">LUDES</a>. (Oct 2020 - Mar 2021)
+Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UFRJ</a>. (Mar 2018 - Jun 2023)
+</br> Master's degree in Computer and Information Engineering at <a href="https://www.cos.ufrj.br/index.php">PESC</a>. (Mar 2023 - Aug 2024, Dropped)
+</br>Data Engineer at <a href="https://findly.ai/">Findly</a>. (Aug 2024 - Present)
+</br>Data Engineer at <a href="https://somoseducacao.com.br/">SOMOS Educação</a>. (Mar 2021 - Aug 2024)
+</br>Backend Developer at <a href="https://bigdatacorp.com.br/">BigData Corp.</a> (Feb 2020 - Mar 2021)
+</br>Scientific Researcher at <a href="https://www.cos.ufrj.br/">PESC</a>. (Aug 2018 - Mar 2021)
 </br>Modalities Coordinator at <a href="https://www.linkedin.com/company/minervaesportsufrj/about/">Minerva eSports</a>. (May 2019 - Mar 2021)
 </br>Volunteer at <a href="https://github.com/DantasB/CSharp4Noobs">CSharp4Noobs</a>. (Sep 2020 - Present)
 </br>Volunteer at <a href="https://github.com/DantasB/Bash4Noobs">Bash4Noobs</a>. (Jul 2021 - Present)
-</br>Colaborator at <a href="https://github.com/gremio-eci">Gremio ECI</a>
+</br>Collaborator at <a href="https://github.com/gremio-eci">Gremio ECI</a>.
 </em></p><br>
 
 
