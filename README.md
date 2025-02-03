@@ -1,8 +1,8 @@
 <h2> Hello, I'm Bruno Dantas!</h2>
 <img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="230">
 <p><em>
-Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UFRJ</a>. (Mar 2018 - Jun 2023)
-</br> Master's degree in Computer and Information Engineering at <a href="https://www.cos.ufrj.br/index.php">PESC</a>. (Mar 2023 - Aug 2024, Dropped)
+Master's degree in Computer and Information Engineering at <a href="https://www.cos.ufrj.br/index.php">PESC</a>. (Mar 2023 - Aug 2024, Dropped)
+</br>Computer and Information Engineering Student at <a href="https://ufrj.br/en/">UFRJ</a>. (Mar 2018 - Jun 2023)
 </br>Data Engineer at <a href="https://findly.ai/">Findly</a>. (Aug 2024 - Present)
 </br>Data Engineer at <a href="https://somoseducacao.com.br/">SOMOS Educação</a>. (Mar 2021 - Aug 2024)
 </br>Backend Developer at <a href="https://bigdatacorp.com.br/">BigData Corp.</a> (Feb 2020 - Mar 2021)
